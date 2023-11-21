@@ -24,5 +24,3 @@ to use min element from left subtree. You will remove lines marked with ---> and
           --->  self.right = self.right.delete(min_val)
 ```
 
-[Solution](https://github.com/codebasics/data-structures-algorithms-python/blob/master/data_structures/9_Binary_Tree_2/Exercise/binary_tree_part_2_exercise.py)
-
